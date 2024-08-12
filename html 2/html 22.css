@@ -1,0 +1,214 @@
+body{
+    margin: auto;
+}
+a{
+    margin-left: 2em;
+   text-decoration: none;
+   color: white;
+}
+.t{
+    margin-right: 39em;
+    margin-left: 8em;
+    
+    
+}
+.thepro{
+    background:rgb(49, 48, 48);
+    padding-top: 1em;  
+}
+.hi{
+    color: white;
+    margin-left: 5em;
+    margin-top: -9em;
+    font: 25px arial;
+}
+.dev{
+    color: white;
+    margin-left: 4.1em;
+    font: bold 30px arial;
+    border-right: 2px solid white;
+    width: 7.5em;
+    padding-right: 0.3em;
+}
+.complex{
+    color: white;
+    margin-left: 5em;
+    font-size: 25px;
+}   
+.me{
+    color: white;
+    background: orangered;
+    border: orangered;
+    margin-left: 9.5em;
+    
+}
+.shigo{
+margin-left: 30em;
+margin-top: -2em;
+}
+
+.Email{
+    color: white;
+    margin-left: 7.9em;
+    margin-top: 4em;
+    border-right: 2px solid white;
+    width: 13em;
+  
+}
+.phone{
+    color: white;
+    margin-left: 22em;
+    margin-top: -2.3em;
+    border-right: 2px solid white;
+    width: 10em;
+}
+.location{
+    color: white;
+    margin-left: 33em;
+    margin-top: -2.3em;
+}
+.second_div{
+    background: black;
+}
+.second_img{
+    width:300px;
+    margin-top: 2em;
+    margin-left: 20em;
+    
+} 
+.new_div{
+    display: flex;
+}
+.who{
+    color: orangered;
+    margin-left: 5em;
+    margin-top: 2em;
+}
+.ui{
+    color: white;
+    margin-top: 4em;
+    margin-left: -4em;
+    font-family: time new roman;
+}
+.lorem{
+    margin-top: 1em;
+    border-bottom: 1px solid white;
+    padding-bottom: 1em;
+}
+.is{
+margin-top: 1em;    
+}
+.new{
+    margin-left: 15em;
+    margin-top: -3.4em;
+}
+.cv{
+    color: white;
+    background: orangered;
+    border: orangered;
+    margin-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;   
+}
+.ser{
+    color:white;
+    margin-top:2em;
+    margin-left:20em;
+}
+.sub_ser{
+    text-shadow:0 0 1px grey;
+    font:50px arial;
+    color:black;
+
+}
+.main_ser{
+    margin-top: -2em;
+    font: 18px arial;
+}
+.ber{
+    color: white;
+    display: flex;
+    margin-left: 20em;
+    height: 10em;
+}
+.er{
+    font: 14px arial;
+    margin-top: 1em;
+    background: rgb(26, 25, 25);
+    width: 20%;
+    padding: 2em;
+    border-radius: 10px;
+     margin-left: 2em;
+     color: white;
+}
+.cr{
+    font: 14px arial;
+    margin-top: 1em;
+    background: rgb(26, 25, 25);
+    width: 20%;
+    padding: 2em;
+    border-radius: 10px;
+    margin-left: 2em;
+    color: white;
+}
+.de{
+    font: 14px arial;
+    margin-top: 1em;
+    background: rgb(26, 25, 25);
+    width: 20%;
+    padding: 2em;
+    border-radius: 10px;
+    margin-left: 2em;
+    color: white;
+}
+.yet{
+        font: 14px arial;
+    margin-top: 2em;
+    background: rgb(26, 25, 25);
+    width: 20%;
+    padding: 2em;
+    border-radius: 10px;
+    margin-left: 2em;
+    
+}
+.je{
+    font: 14px arial;
+    margin-top: 2em;
+    background: rgb(26, 25, 25);
+    width: 20%;
+    padding: 2em;
+    border-radius: 10px;
+}
+.scr{
+    font: 14px arial;
+    margin-top: 2em;
+    background: rgb(26, 25, 25);
+    width: 20%;
+    padding: 2em;
+    border-radius: 10px;
+    margin-left: 2em;
+}
+.ogr{
+    font: 14px arial;
+    margin-top: 2em;
+    background: rgb(26, 25, 25);
+    width: 20%;
+    padding: 2em;
+    border-radius: 10px;
+    margin-left: 2em;
+}
+.part4{
+    color: orangered;
+}
+.all_box{
+    display: flex;
+    margin-left: 18em;
+}
+.call_box{
+    display: flex;
+    margin-left: 18em;
+    padding-bottom: 2em;
+    color: white;
+}
